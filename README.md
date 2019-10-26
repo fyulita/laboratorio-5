@@ -11,3 +11,17 @@ Este repositorio tiene los archivos que me parecieron útiles para compartitr de
 **separacion.py**: Archivo de Python que se uso para separar las mediciones de 10 mins. en intervalos.
 
 **analisis_estadistica.py**: Archivo de Python que se uso para analizar a los intervalos.
+
+**Cuaderno.pdf**: Cuaderno de laboratorio.
+
+**Informe.pdf**: Informe de laboratorio.
+
+## Nano-AFM
+
+**Cuaderno.pdf**: Cuaderno de laboratorio.
+
+**Informe.pdf**: Informe de laboratorio.
+
+## Espectroscopia 1
+
+**Cuaderno.pdf**: Cuaderno de laboratorio.
