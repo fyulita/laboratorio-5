@@ -25,3 +25,5 @@ Este repositorio tiene los archivos que me parecieron útiles para compartitr de
 ## Espectroscopia 1
 
 **Cuaderno.pdf**: Cuaderno de laboratorio.
+
+**Poster.pdf**: Poster que usamos para la experiencia.
