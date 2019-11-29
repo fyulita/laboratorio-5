@@ -2,16 +2,18 @@
 
 !.gitignore
 !README.md
-!**/Experimentos de Fisica Nuclear/medir.m/
-!**/Experimentos de Fisica Nuclear/analisis_calibracion.py/
-!**/Experimentos de Fisica Nuclear/analisis_estadistica.py/
-!**/Experimentos de Fisica Nuclear/separacion.py/
-!**/Experimentos de Fisica Nuclear/Cuaderno.pdf/
-!**/Experimentos de Fisica Nuclear/Informe.pdf/
-!/Nano-AFM/Cuaderno.pdf/
-!/Nano-AFM/Informe.pdf/
-!**/Espectroscopia I/Cuaderno.pdf/
-!**/Espectroscopia I/Poster.pdf/
-!**/Espectroscopia I/Presentacion.pdf/
+!Experimentos de Fisica Nuclear
+!Nano-AFM
+!Espectroscopia I
 
-!*/
+!Experimentos de Fisica Nuclear/medir.m
+!Experimentos de Fisica Nuclear/analisis_calibracion.py
+!Experimentos de Fisica Nuclear/analisis_estadistica.py
+!Experimentos de Fisica Nuclear/separacion.py
+!Experimentos de Fisica Nuclear/Cuaderno.pdf
+!Experimentos de Fisica Nuclear/Informe.pdf
+!Nano-AFM/Cuaderno.pdf
+!Nano-AFM/Informe.pdf/
+!Espectroscopia I/Cuaderno.pdf
+!Espectroscopia I/Poster.pdf
+!Espectroscopia I/Presentacion.pdf
